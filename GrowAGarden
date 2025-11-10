@@ -1,1 +1,969 @@
-return(function(...)local g={"\120\069\071\102\090\117\049\075\120\071\061\061";"\122\048\050\099\122\079\051\075\076\097\088\061","\088\108\055\083\076\053\055\083\089\065\081\068\089\097\119\102","\082\097\115\112\098\102\066\090\066\065\051\118\089\086\090\065\098\098\098\061","\065\086\050\113\089\057\061\061","\120\100\068\082\122\054\066\099\076\055\102\116\073\098\081\066\098\054\089\061","\090\043\043\048\089\083\118\085\082\100\102\080\073\054\043\048\090\057\061\061";"\088\097\043\074\090\048\050\115","\073\113\043\101";"\084\054\049\083";"\089\113\102\083\090\073\061\061";"\088\097\055\115\076\067\090\102";"\076\048\050\068\090\079\066\083\088\097\102\074\090\057\061\061";"\090\097\119\111\076\067\105\061","\076\048\055\074","\089\108\068\068\088\071\061\061","\107\068\053\074\072\103\048\068\085\073\061\061","\049\065\072\088\119\087\070\072\070\086\085\117\083\082\067\065\109\108\098\072\069\053\071\069\098\050\107\074\079\072\070\085\106\069\070\111\054\103\048\076\117\043\101\061";"\055\048\043\115\088\048\055\080\105\100\081\102\122\048\055\110\122\048\055\054\105\073\061\061","\055\065\066\102\088\097\118\068\076\053\098\061";"\090\108\086\068\122\048\066\049";"\109\079\081\083\088\100\122\102\122\078\061\061";"\088\043\090\065\076\055\055\080\109\099\066\075\116\053\071\083";"\055\108\055\069\116\048\050\111\116\057\061\061","\081\098\075\120\109\100\119\108\082\055\122\057\122\070\073\083\089\097\105\061";"\120\071\061\061","\122\053\118\057\089\053\066\106","\088\067\081\080\116\053\118\113";"\109\108\066\098\122\082\102\119\088\082\068\080\090\113\051\121\066\048\112\061";"\089\108\050\074\089\108\043\083","\065\086\050\075\076\097\081\102\084\078\061\061";"\090\065\051\080\076\067\105\061";"\076\053\043\083\116\078\061\061";"\076\070\105\061";"\088\065\075\067\066\083\066\118\112\054\050\097\066\102\051\099\122\071\061\061";"\090\108\043\115\090\073\061\061";"\081\066\051\065\065\118\100\119\043\106\065\084\071\085\049\090\078\088\108\105\106\071\055\057\049\116\104\081\077\108\113\085\052\069\120\051\103\076\122\051\068\066\121\114\111\072\090\047\047\049\084\049\087\105\079\103\051\049\052\067\065\078\100\050\113\085\074\120\113\101\047\078\077\065\120\067\101\087\050\108\056\070\113\109\100\066\118\054\053\066\043\100\043\110\070\085\054\108\106\117\069\104\070\055\051\079\085\117\072\069\110\099\107\103\098\047\087\098\073\089\120\119\102\109\078\113\121\052\047\048\048\103\106\043\081\078\056\118\099\081\116\079\066\069\121\109\077\116\115\109\102\074\104\100\113\114\106\054\117\112\116\116\071\066\083\119\106\103\100\112\054\103\080\071\072\120\049\100\088\049\107\097\105\052\075\082\069\049\071\119\098\104\053\111\083\112\103\068\116\107\069\089\079\116\043\043\099\078\070\084\107\079\098\055\106\098\052\066\049\115\101\107\084\049\065\119\054\076\101\122\118\071\105\050\083\108\108\099\097\112\073\086\097\052\055\047\053\084\068\074\079\113\119\110\085\122\115\087\097\086\106\121\109\089\118\112\085\077\121\111\056\088\121\047\048\072\110\073\061\061";"\054\065\070\099\119\066\067\122\121\117\074\101\085\073\116\083\115\065\052\053\085\080\071\120\112\119\109\073\070\100\077\073\102\053\050\055\089\080\071\053\087\065\081\086\112\084\110\087\043\109\115\073\068\097\111\047\068\050\099\072\084\087\053\043\067\115\098\065\086\049\121\074\077\111\043\115\043\054\107\111\051\079\117\049\055\115\083\103\075\043\054\120\099\066\074\057\078\118\073\116\051\086\080\121\080\053\048\078\108\051\079\072\086\053\080\109\105\118\118\072\076\055\099\117\115\118\097\086\048\057\068\098\081\051\049\115\117\075\070\068\098\121\051\105\068\121\074\047\053\099\098\070\072\106\047\048\087\100\051\112\076\084\121\099\068\114\049\081\049\102\119\066\053\055\071\084\078\097\113\049\121\114\085\057\098\079\099\081\081\113\107\079\097\104\103\115\056\068\120\079\099\065\057\089\070\103\110\070\069\109\082\119\113\053\104\049\066\083\121\071\073\066\111\071\071\087\050\107\118\085\105\081\055\111\081\071\078\078\069\075\068\120\067\099\118\048\089\120\076\083\086\074\083\087\115\090\052\104\085\053\075\056\089\106\047\051\097\071\069\072\117\085\080\112\053\052\070\078\061\061";"\065\086\050\115\090\065\081\068\122\048\043\069\076\048\098\061","\122\048\043\069\076\048\098\061","\076\070\100\061";"\090\067\066\086\089\071\061\061";"\088\113\055\121\053\078\061\061","\065\086\050\101\090\053\107\061";"\088\070\055\107\109\067\056\075\082\055\055\097\081\097\102\075\090\110\054\061";"\112\108\119\117\098\110\043\075\088\048\071\061","\116\086\122\098\084\102\075\099\116\055\090\089\084\102\075\075\076\054\054\061","\066\070\112\067\053\102\089\118\084\048\043\113\098\108\119\119\116\057\061\061";"","\122\048\050\074\122\053\086\069\090\065\105\061","\088\048\066\068\076\048\057\061","\109\070\098\107\053\053\049\108\098\053\105\083\081\065\068\116\120\078\061\061";"\055\055\051\112"}for R,Z in ipairs({{347691+-347690;-1047819-(-1047872)},{-969917-(-969918);253864+-253844},{978174+-978153;246440+-246387}})do while Z[904637-904636]<Z[87971+-87969]do g[Z[459183-459182]],g[Z[-967740-(-967742)]],Z[805049+-805048],Z[-82275+82277]=g[Z[-444780-(-444782)]],g[Z[671733+-671732]],Z[867452-867451]+(624435+-624434),Z[790072+-790070]-(32289+-32288)end end local function R(R)return g[R-(377900+-319085)]end do local R=table.insert local Z=g local h=string.len local Q=string.char local o=string.sub local E={h=673137-673077;i=814657-814649,A=-872676-(-872699),["\047"]=-682997+683007;M=-868667+868682;D=491055+-491022;y=248850-248808,E=1040000+-1039966;R=-1012076-(-1012095),p=1037440+-1037428;f=-698486+698523;u=-260136+260138;["\056"]=348908-348907,["\053"]=-331370+331392,x=899324+-899310,U=208230+-208172,q=-692277+692316,Q=-782456+782473;T=237957-237927;P=1013937-1013887;["\054"]=942241-942205;S=-967422+967474,o=-554690-(-554737),["\052"]=-900061-(-900092);n=-682258-(-682293),Z=510768+-510743;["\055"]=-772792+772813,V=-650548+650601,G=60898+-60866,t=854612-854586;e=-44277-(-44321);z=-961889-(-961918),j=633396+-633353,d=22241+-22237;F=-844346+844349;["\050"]=-69093-(-69154);k=-324970+325026,Y=751567-751543,a=662581+-662543,L=-932514-(-932541),l=879153-879099,b=-636832-(-636852),N=-662197-(-662197),g=507115-507056,["\043"]=978691-978686,I=-345899+345915,w=654565-654516;W=-924018-(-924029),["\049"]=708254-708214;c=-648833-(-648884),C=-804793+804848;J=-637044+637090,["\057"]=-1041424-(-1041472),X=308998-308970;v=539882-539825,["\048"]=32033+-32027,r=600563+-600500;K=313642+-313601;H=99297-99235;s=406618-406573,O=293872-293865,m=896828+-896810;["\051"]=-821744-(-821753),B=-758571-(-758584)}local U=table.concat local q=type local J=math.floor for g=18081+-18080,#Z,-492591+492592 do local u=Z[g]if q(u)=="\115\116\114\105\110\103"then local q=h(u)local s={}local v=-912060+912061 local Y=692469-692469 local A=-425453-(-425453)while v<=q do local g=o(u,v,v)local Z=E[g]if Z then Y=Y+Z*(447662-447598)^((-937149+937152)-A)A=A+(-502064+502065)if A==1018112+-1018108 then A=334570+-334570 local g=J(Y/(-312172-(-377708)))local Z=J((Y%(293095-227559))/(-177125-(-177381)))local h=Y%(-725238-(-725494))R(s,Q(g,Z,h))Y=-618483-(-618483)end elseif g=="\061"then R(s,Q(J(Y/(669877+-604341))))if v>=q or o(u,v+(-455342+455343),v+(-199654+199655))~="\061"then R(s,Q(J((Y%(-399086-(-464622)))/(505328-505072))))end break end v=v+(-279593+279594)end Z[g]=U(s)end end end return(function(g,h,Q,o,E,U,q,Y,J,j,O,S,D,v,B,Z,N,x,A,u,s)O,x,Z,A,S,j,v,N,B,Y,D,u,J,s=function(g,R)local h=Y(R)local Q=function(Q)return Z(g,{Q},R,h)end return Q end,function(g,R)local h=Y(R)local Q=function(Q,o)return Z(g,{Q,o},R,h)end return Q end,function(Z,Q,o,E)local r,K,i,e,T,d,B,p,l,u,M,F,t,q,n,V,X,L,v,H,z,c,k,Y,a,W,A,G,w,m,P,C,I,b while Z do if Z<719094+6381565 then if Z<-173989+4120075 then if Z<1777229-986559 then if Z<51618+401584 then if Z<350955+18541 then if Z<468603-216167 then if Z<160766-154149 then Z=J[o[-23841+23851]]v=J[o[-473380-(-473391)]]u[Z]=v Z=J[o[469615+-469603]]v={Z(u)}Z=g[R(-365291+424125)]q={h(v)}else v=1027264+-1027263 Z={}u=Z Y=J[o[-47329+47338]]A=Y Z=-722998+978493 Y=289513+-289512 B=Y Y=-534769+534769 C=B<Y Y=v-B end else Y=Y+B T=not C v=Y<=A v=T and v T=Y>=A T=C and T v=T or v T=9814924-892540 Z=v and T v=-190438-(-191462)Z=Z or v end else if Z<1084484-666805 then Z=g[R(-285725-(-344555))]q={}else Z=J[o[259624+-259617]]Z=Z and 16792353-261928 or 685813+-667893 end end else if Z<752815-22881 then if Z<973566+-366051 then Z={}J[o[-641714-(-641716)]]=Z B=35184371432908-(-655924)q=J[o[933568-933565]]A=q L=R(-626758-(-685621))q=v%B T=-453102+453357 F=-640436+640437 J[o[1012351+-1012347]]=q C=v%T T=167269+-167267 B=C+T J[o[122468+-122463]]=B T=g[L]Z=-848058+11036145 L=R(-152005-(-210855))C=T[L]T=C(u)L=240103+-240102 C=R(766392+-707561)d=F F=-246120+246120 K=T Y[v]=C C=447935-447726 m=d<F F=L-d else W=i G=W M[W]=G W=nil Z=5857299-924541 end else if Z<64248-(-675573)then V=J[v]p=V Z=V and 17037737-765368 or 3165759-(-889404)else t=270889-270888 l=b[t]t=false a=l==t k=a X=Z Z=a and 10377949-141220 or 359019+7028342 end end end else if Z<3193241-572402 then if Z<581554+1303137 then if Z<1486092-(-16417)then if Z<2043238-712950 then q=777016+8154073 Y=225767-(-31777)v=R(-667829+726674)u=v^Y Z=q-u u=Z q=R(382582-323754)Z=q/u q={Z}Z=g[R(-980030+1038888)]else Z=q and 6012504-182694 or-217511+660404 end else Y=R(-199266-(-258088))v=g[Y]Y=R(-894431-(-953278))Z=g[R(-873842-(-932669))]u=v[Y]Y=J[o[-319273-(-319274)]]v={u(Y)}q={h(v)}end else if Z<2508984-86563 then Z=true Z=Z and-888380+13443003 or-65954+5052474 else i=#M I=-929597+929597 Z=6226270-(-90979)W=i==I end end else if Z<-624627+4161147 then if Z<3427788-(-73506)then Z=true J[o[906556+-906555]]=Z Z=g[R(-818788-(-877627))]q={}else P=R(-497180-(-556017))Z=g[P]z=R(220332-161509)I=g[z]P=Z(I)Z=R(799415-740599)g[Z]=P Z=10850027-886715 end else if Z<3439434-(-254824)then a=-297128-(-297129)X=b[a]Z=67170+8682665 k=X else Z=-804665+15169264 end end end end else if Z<516720+5050642 then if Z<-613811+5462633 then if Z<3981865-(-116452)then if Z<3758308-(-324138)then if Z<-478767+4557595 then J[v]=p Z=J[v]Z=Z and 618035+3241026 or-831738+7219133 else F=532532-532529 K=s()d=-961405-(-961470)J[K]=q Z=J[T]q=Z(F,d)F=s()W=O(1284231-1120,{})M=R(965950+-907117)Z=18593-18593 P=R(239227-180390)J[F]=q d=Z Z=560881-560881 m=Z q=g[M]M={q(W)}Z={h(M)}M=Z q=453616-453614 Z=M[q]W=Z q=R(-690741+749573)Z=g[q]i=J[Y]V=g[P]P=V(W)V=R(-726135+784971)p=i(P,V)i={p()}q=Z(h(i))i=s()J[i]=q q=578930+-578929 p=J[F]V=p p=-380588+380589 P=p Z=53090+13607999 p=10912+-10912 I=P<p p=q-P end else I=-317156-(-317162)P=-140964+140965 Z=J[T]V=Z(P,I)Z=R(-971838+1030654)I=R(-456624-(-515440))g[Z]=V P=g[I]I=-23777+23779 Z=P>I Z=Z and 3848150-343915 or 153061+6698732 end else if Z<-439662+5189323 then Z=true Z=Z and 13569662-(-85795)or 5188222-(-395820)else C=q T=R(198296-139428)q=g[T]T=R(-335313-(-394156))L=R(710202-651380)Z=q[T]T=s()J[T]=Z q=g[L]L=R(917948+-859083)Z=q[L]F=Z L=Z m=R(-445738-(-504560))d=g[m]K=d Z=d and-1043328+7576135 or 15375094-(-499951)end end else if Z<5058868-73826 then if Z<-639220+5571159 then k=J[v]Z=k and 1552720-795961 or 16648413-709878 q=k else G=not c i=i+z W=i<=I W=G and W G=i>=I G=c and G W=G or W G=833465-140196 Z=W and G W=230055+2321831 Z=Z or W end else if Z<4767060-(-314090)then Z=g[R(-667125+725954)]q={}else i=#M I=350443-350443 W=i==I Z=W and 12349850-794681 or 5273345-(-1043904)end end end else if Z<-156453+6555427 then if Z<5834186-(-458222)then if Z<377260+5729317 then if Z<340523+5289850 then Z=O(109859+14050445,{A})V={Z()}q={h(V)}Z=g[R(-932414-(-991231))]else A=R(-946602-(-1005439))q=R(-456736-(-515568))L=R(289385+-230552)Z=g[q]K=S(-931261+13555519,{})u=J[o[619059+-619055]]Y=g[A]T=g[L]L={T(K)}C={h(L)}T=1018434-1018432 B=C[T]A=Y(B)Y=R(859661-800825)v=u(A,Y)u={v()}q=Z(h(u))v=J[o[-632687-(-632692)]]u=q q=v Z=v and-1004671+13691394 or 15678399-834554 end else L=F P=R(709622+-650759)V=g[P]P=R(-681141+739987)p=V[P]V=p(u,L)p=J[o[-182118+182124]]P=p()i=V+P W=i+C P=-404204-(-404205)Z=10712551-524464 i=320810+-320554 M=W%i C=M i=Y[v]V=C+P p=A[V]W=i..p Y[v]=W L=nil end else if Z<-96291+6431099 then I=#M i=-692212-(-692213)W=A(i,I)G=-228071+228072 i=C(M,W)I=J[m]Z=5356163-(-154661)c=i-G W=nil z=T(c)I[i]=z i=nil else Z=true Z=5819409-235367 end end else if Z<7682652-844858 then if Z<-362411+6999381 then M=R(77671-18849)m=g[M]M=R(772728+-713866)Z=16274321-399276 d=m[M]K=d else Z=14212178-1040064 C=nil T=nil A=nil end else if Z<-178918+7049779 then I=R(-560371-(-619187))Z=g[I]I=R(647284+-588461)g[I]=Z Z=10001873-38561 else e=j(e)z=j(z)c=j(c)H=j(H)w=j(w)Z=13467387-(-193702)G=j(G)b=nil end end end end end else if Z<-603123+13279960 then if Z<1045760+9143684 then if Z<300585+8643904 then if Z<-1036224+9864720 then if Z<8533299-(-51682)then if Z<7537004-(-168677)then Z=X q=k Z=16427926-489391 else u=Q[36962-36961]Z=J[o[807865+-807864]]v=Q[-601267+601269]Y=Z Z=Y[v]Z=Z and-633268+9464514 or 821305+-350763 end else n=92900-92899 J[v]=k t=J[e]l=t+n a=b[l]X=d+a a=-604787+605043 Z=X%a l=J[G]d=Z a=m+l l=-459374-(-459630)X=a%l Z=7236157-343915 m=X end else if Z<-183206+9057433 then Z=665397+12506717 else Z=J[o[220967+-220966]]K=-458734+458989 v=Y L=-302761-(-302761)T=Z(L,K)Z=443757-188262 u[v]=T v=nil end end else if Z<-234599+10187280 then if Z<172197+9436600 then q=R(519920+-461053)Z=g[q]u=R(201546-142692)q=Z(u)Z=g[R(468143+-409302)]q={}else u=J[o[457902+-457901]]q=#u u=-439214+439214 Z=q==u Z=Z and 755639+13323767 or 2361832-724918 end else if Z<9605129-(-426733)then Z=-634868+13610368 else M=not m F=F+d L=F<=K L=M and L M=F>=K M=m and M L=M or L M=6193501-68770 Z=L and M L=7400898-585970 Z=Z or L end end end else if Z<10771549-(-1002751)then if Z<10226861-(-197606)then if Z<9991471-(-359083)then if Z<-468719+10708462 then t=261930-261928 l=b[t]Z=8375328-987967 t=J[H]a=l==t k=a else F=R(-527344+586206)K=g[F]q=K Z=3984665-(-97635)end else C=J[B]q=C Z=-308650+5068347 end else if Z<-426669+11334325 then Y=47137+-47136 v=J[o[-983806+983809]]u=v~=Y Z=u and 643380+14724769 or-295273+15378230 else W={}C=nil G={}i=s()C=R(-1033216+1092068)M=nil T=nil I=S(9939535-175397,{i;K;F;B})M=R(-198182+257002)L=nil J[i]=W b=R(178726+-119905)z=s()A=nil w=R(139028-80162)W=s()J[W]=I c=R(431597+-372759)I={}J[z]=I I=g[c]d=nil H=J[z]a=nil e={[w]=H;[b]=a}c=I(G,e)Z=g[R(-449152-(-508016))]Y=c I=D(67490+7900497,{z,i,m,K;F;W})W=j(W)L=13310509364797-(-490031)K=j(K)F=j(F)B=j(B)W=-1760+355419392043 v=I m=j(m)T=469551+22850996644082 z=j(z)i=j(i)K=25566572082692-(-976638)B=v(C,T)A=Y[B]T=R(31137+27716)B=R(-382919-(-441774))g[B]=A C=v(T,L)L=R(-49824-(-108643))B=Y[C]C=R(978750+-919891)g[C]=B T=v(L,K)C=Y[T]T=R(-605858-(-664693))F=R(1059457-1000639)g[T]=C L=R(-689559-(-748407))T=g[L]K=g[F]m=v(M,W)d=Y[m]m=R(-392197-(-451054))m=K[m]F={m(K,d)}L=T(h(F))T=L()v=nil Y=nil q={}end end else if Z<-564017+12957740 then if Z<13026510-902908 then Z=853754+517423 v=J[o[-7264+7266]]Y=J[o[-470831+470834]]u=v==Y q=u else X=J[v]k=X Z=X and 680437+2891384 or-302121+9051956 end else if Z<11980135-(-587186)then q=R(746549-687733)Z=g[q]u=R(-290276-(-349099))q=g[u]u=R(-253411-(-312234))g[u]=Z u=R(1083008-1024192)g[u]=q Z=1603472-(-614067)u=J[o[-870202-(-870203)]]v=u()else q=8380065-218023 v=R(1008089-949245)Y=328490+15048364 u=v^Y Z=q-u q=R(640827-582002)u=Z Z=q/u q={Z}Z=g[R(919741+-860899)]end end end end else if Z<298601+14038198 then if Z<414509+13292849 then if Z<779768+12735998 then if Z<12979139-(-12256)then if Z<-127716+12928057 then Y=J[o[-522096+522102]]v=Y==u Z=546993+14296852 q=v else Z=true Z=Z and 4399335-310378 or 1290439-877243 end else q={v}Z=g[R(119780+-60920)]end else if Z<14336242-678645 then Z=13898889-923389 else p=p+P z=not I q=p<=V q=z and q z=p>=V z=I and z q=z or q z=456238+13865863 Z=q and z q=-156197+892475 Z=Z or q end end else if Z<13645307-(-480623)then if Z<592306+13343162 then v=s()u=Q Z=true J[v]=Z Y=R(-809676-(-868539))q=g[Y]Y=R(786719-727863)Z=q[Y]T=R(-596899-(-655732))Y=s()A=s()J[Y]=Z Z=x(8587685-(-567666),{})J[A]=Z Z=false B=s()J[B]=Z L=x(3685457-568306,{B})C=g[T]T=C(L)Z=T and 10364893-(-5472)or 373804+4385893 q=T else Y=205670+-205473 v=J[o[-207780-(-207782)]]u=v*Y v=18170412960483-(-702262)q=u+v v=52323-52322 u=-602419+35184372691251 Z=q%u J[o[-1015741-(-1015743)]]=Z u=J[o[282537+-282534]]Z=-510000+15592957 q=u~=v end else if Z<13366235-(-926333)then Z=851386+1366153 else z=s()J[z]=p c=R(-873289-(-932157))q=g[c]G=-953150+953250 c=R(258088+-199245)Z=q[c]c=-179558+179559 q=Z(c,G)G=-358763-(-358763)c=s()b=-361385-(-361387)J[c]=q e=445870+-445615 Z=J[T]q=Z(G,e)G=s()J[G]=q Z=J[T]e=746743+-746742 w=J[c]q=Z(e,w)e=s()H=91939+-91938 r=130596+-120596 J[e]=q n=31713+-31713 a=R(-539678-(-598515))q=J[T]w=q(H,b)q=1032832+-1032831 Z=w==q q=R(-928747-(-987583))w=s()b=R(420205+-361344)J[w]=Z Z=R(624186-565362)X=g[a]l=J[T]t={l(n,r)}a=X(h(t))X=R(623859+-564998)k=a..X Z=W[Z]H=b..k Z=Z(W,q,H)b=R(-833451-(-892284))H=s()J[H]=Z q=g[b]k=N(15318645-697526,{T,z;F;Y;v,i;w;H;c;e;G,K})b={q(k)}Z={h(b)}b=Z Z=J[w]Z=Z and 4528234-(-394284)or 380588+11750086 end end end else if Z<442030+15341744 then if Z<796601+14227460 then if Z<13859152-(-830586)then if Z<15364584-861371 then W=nil T=j(T)F=j(F)Y=j(Y)i=j(i)d=nil F=s()m=nil m=s()B=j(B)A=j(A)v=j(v)Y=nil v=nil L=nil M=nil C=nil K=j(K)C=R(1054643-995775)B=g[C]Z=4092572-(-840186)T=R(-489469-(-548337))C=R(988766-929917)A=B[C]W=951166-951165 K=R(-817548-(-876411))B=s()J[B]=A C=g[T]M={}L=R(177322-118500)T=R(719183-660340)A=C[T]T=g[L]L=R(857688-798841)C=T[L]L=g[K]K=R(-494990-(-553841))d={}T=L[K]K=s()L=578418+-578418 J[K]=L L=607603+-607601 J[F]=L J[m]=d d=-600115+600115 L={}i=-20897-(-21153)I=i i=1028096+-1028095 z=i i=-391340+391340 c=z<i i=W-z else B=-854008-(-854010)v=J[o[1440+-1439]]A=-643124+643125 Y=v(A,B)v=615475+-615474 u=Y==v Z=u and-852986+2224163 or 11370363-(-751607)q=u end else Z=1458892-1015999 u=nil J[o[-540593+540598]]=q end else if Z<366571+14935901 then Y=118840-118820 Z=9670023-(-814009)v=J[o[-394092+394095]]u=v*Y v=-559729+559986 q=u%v J[o[125799-125796]]=q else Y=-1025888-(-1025920)v=J[o[534065+-534062]]u=v%Y K=-707894+707896 A=J[o[340783-340779]]d=1030861-1030848 T=J[o[702390+-702388]]W=J[o[699961-699958]]M=W-u W=13216+-13184 m=M/W F=d-m L=K^F C=T/L B=A(C)Z=-558001+2194915 K=486255-485999 A=4295795258-827962 L=1025921-1025920 Y=B%A B=-534063-(-534065)A=B^u v=Y/A A=J[o[-92447-(-92451)]]T=v%L L=4295595251-627955 C=T*L B=A(C)A=J[o[753143+-753139]]C=A(v)Y=B+C T=982396-916860 u=nil B=-317676-(-383212)A=Y%B C=Y-A B=C/T T=987967+-987711 C=A%T L=A-C T=L/K v=nil K=-919741-(-919997)L=B%K F=B-L d=1000895+-1000639 Y=nil K=F/d A=nil B=nil F={C;T,L;K}J[o[-60066+60067]]=F T=nil C=nil K=nil L=nil end end else if Z<16276506-15904 then if Z<16138422-247784 then q=K Z=F Z=K and 154085+3928215 or 10407646-163749 else Z=7590792-698550 J[v]=q end else if Z<-370027+16838441 then V=d==m Z=3731345-(-323818)p=V else u=R(-833914+892781)Y=-621811+621811 Z=g[u]v=J[o[-978742-(-978750)]]u=Z(v,Y)Z=-123556+141476 end end end end end end end Z=#E return h(q)end,function(g)local R,Z=-442350+442351,g[-58849-(-58850)]while Z do u[Z],R=u[Z]-(696246+-696245),R+(107555+-107554)if-329898-(-329898)==u[Z]then u[Z],J[Z]=nil,nil end Z=g[R]end end,function(g,R)local h=Y(R)local Q=function(Q,o,E,U)return Z(g,{Q,o,E;U},R,h)end return Q end,function(g)u[g]=u[g]-(-1007167+1007168)if 751799+-751799==u[g]then u[g],J[g]=nil,nil end end,1015871+-1015871,function(g,R)local h=Y(R)local Q=function()return Z(g,{},R,h)end return Q end,function(g,R)local h=Y(R)local Q=function(...)return Z(g,{...},R,h)end return Q end,function(g)for R=720438+-720437,#g,-502767-(-502768)do u[g[R]]=u[g[R]]+(-900604+900605)end if Q then local Z=Q(true)local h=E(Z)h[R(-43633-(-102499))],h[R(963476-904636)],h[R(312114-253288)]=g,A,function()return 483503+-2551918 end return Z else return o({},{[R(460782+-401942)]=A;[R(-385660-(-444526))]=g,[R(-131420-(-190246))]=function()return 823226+-2891641 end})end end,function(g,R)local h=Y(R)local Q=function(Q,o,E,U,q)return Z(g,{Q,o;E;U;q},R,h)end return Q end,{},{},function()v=(620916-620915)+v u[v]=-104483+104484 return v end return(B(-57826+13946762,{}))(h(q))end)(getfenv and getfenv()or _ENV,unpack or table[R(363179+-304317)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- ╔═══════════════════════════════════════════════════════════════╗
+-- ║                 JOMHUB SAFE VERSION V1.0                      ║
+-- ║              SAFE AUTO FARM + QUEST SYSTEM                    ║
+-- ║                  ANTI-DETECTION BUILD                         ║
+-- ╚═══════════════════════════════════════════════════════════════╝
+
+-- Services
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+
+local player = Players.LocalPlayer
+if not player then return end
+
+-- Theme Colors
+local THEME = {
+    Background = Color3.fromRGB(30, 40, 60),
+    BackgroundDark = Color3.fromRGB(20, 25, 40),
+    Sidebar = Color3.fromRGB(15, 20, 35),
+    SectionBg = Color3.fromRGB(25, 30, 50),
+    Accent = Color3.fromRGB(100, 150, 255),
+    Blue = Color3.fromRGB(80, 140, 255),
+    Green = Color3.fromRGB(50, 205, 50),
+    Text = Color3.fromRGB(220, 230, 255),
+    TextDim = Color3.fromRGB(180, 190, 220),
+    GradientStart = Color3.fromRGB(40, 60, 100),
+    GradientEnd = Color3.fromRGB(80, 50, 120),
+    ToggleOn = Color3.fromRGB(100, 255, 100),
+    ToggleOff = Color3.fromRGB(60, 60, 60),
+}
+
+-- Safe Configuration
+local CONFIG = {
+    BEHIND_DISTANCE = 10,
+    HEIGHT_OFFSET = 2,
+    ATTACK_DELAY = 1.0,
+    M2_ATTACK_DELAY = 1.5,
+    ATTACK_COOLDOWN = 0.8,
+    MAX_SEARCH_DISTANCE = math.huge,  -- Search anywhere
+    TELEPORT_DISTANCE = 50,           -- Teleport if enemy > 50 studs away
+    MAX_HEIGHT_DIFFERENCE = math.huge,
+    MIN_HEIGHT = -500,                -- Allow underground
+    MAX_HEIGHT = 10000,               -- Allow sky enemies
+    CACHE_REFRESH = 0.5,              -- Check for new enemies every 0.5s
+    SAFE_MODE_HEALTH = 30,
+    ANTI_AFK_INTERVAL = 600,
+    DEBUG_MODE = true,                -- Enable debug prints
+}
+
+-- Enemy List
+local ENEMIES = {
+    "Alien", "Android 19", "Android 20", "Android Prototype A", "Android Prototype B",
+    "Android Prototype S", "Bandit", "Bear", "Big Snake", "Black Scorpion",
+    "Brute", "Cell Jr", "Chi Expert", "Corrupt Officer", "Dino",
+    "Egoist Goalie", "Egoist Striker", "Evil Crane Student", "Evil Majin", "Evil Namek",
+    "Evil Saiyan", "Female Bandit", "Frog", "Galactic Patrol", "Giant Boar",
+    "Giras", "Goku", "Gorilla", "Kick Boxer", "Kung Fu Master",
+    "Mad Scientist", "Monster Carrot", "Pirate Cannoneer", "Pirate Elite", "Pirate Robot",
+    "Pirate Scrub", "Pterodactyl", "Purple Fighter", "Rabbit Mobster", "Rabbit Rocketeer",
+    "Red Ribbon Gunner", "Red Ribbon Soldier", "Saibablue", "Saibaman", "Saibared",
+    "Sataru Dojo", "Scorpion", "Shielded Tank", "Snake", "Spopovich",
+    "Tank", "Thug", "Universal Champion", "Wendigo", "Yamu", "Yeti"
+}
+
+-- State Management
+local STATE = {
+    farmActive = false,
+    selectedEnemy = nil,
+    currentTarget = nil,
+    useM1 = true,
+    useM2 = false,
+    lastAttackTime = 0,
+    lastM2Time = 0,
+    guiVisible = true,
+    characterDistance = 10,
+    characterHeight = 0,
+    enemiesFound = 0,
+    currentDistance = 0,
+}
+
+-- GUI Elements Storage
+local GUI_ELEMENTS = {}
+local farmConnection = nil
+
+-- Enemy Cache System
+local cache = {
+    enemiesFolder = nil,
+    enemyCache = {},
+    lastCacheUpdate = 0,
+}
+
+-- Helper Functions
+local function debugPrint(message)
+    if CONFIG.DEBUG_MODE then
+        print("[JomHub Debug] " .. message)
+    end
+end
+
+local function addGlow(obj, color, thickness)
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = color
+    stroke.Thickness = thickness or 2
+    stroke.Transparency = 0.5
+    stroke.Parent = obj
+    return stroke
+end
+
+local function applySectionStyle(frame)
+    local gradient = Instance.new("UIGradient")
+    gradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, THEME.GradientStart),
+        ColorSequenceKeypoint.new(1, THEME.GradientEnd)
+    })
+    gradient.Parent = frame
+    addGlow(frame, THEME.Accent, 1).Transparency = 0.8
+end
+
+-- Enemy Detection Functions
+local function getModelCFrame(model)
+    if not model or not model.Parent then return nil end
+
+    -- Try PrimaryPart first
+    if model.PrimaryPart and model.PrimaryPart:IsA("BasePart") then
+        return model.PrimaryPart.CFrame
+    end
+
+    -- Try common humanoid parts
+    local hrp = model:FindFirstChild("HumanoidRootPart") or 
+                model:FindFirstChild("Torso") or 
+                model:FindFirstChild("UpperTorso") or
+                model:FindFirstChild("Head")
+    
+    if hrp and hrp:IsA("BasePart") then
+        return hrp.CFrame
+    end
+
+    -- Fallback: find any BasePart
+    for _, part in ipairs(model:GetDescendants()) do
+        if part:IsA("BasePart") then
+            return part.CFrame
+        end
+    end
+
+    return nil
+end
+
+local function isEnemyAlive(enemy)
+    if not enemy or not enemy.Parent then return false end
+    
+    local humanoid = enemy:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return false end
+    
+    return humanoid.Health > 0.2 and humanoid:GetState() ~= Enum.HumanoidStateType.Dead
+end
+
+local function isValidEnemyPosition(enemyPos)
+    if not enemyPos then return false end
+    
+    -- Very lenient height check
+    if enemyPos.Y < CONFIG.MIN_HEIGHT or enemyPos.Y > CONFIG.MAX_HEIGHT then
+        debugPrint("Enemy at invalid height: " .. tostring(enemyPos.Y))
+        return false
+    end
+    
+    return true
+end
+
+-- IMPROVED: Build enemy cache with better detection
+local function buildEnemyCache()
+    local currentTime = tick()
+    
+    -- Refresh cache based on config
+    if cache.lastCacheUpdate and currentTime - cache.lastCacheUpdate < CONFIG.CACHE_REFRESH then
+        return cache.enemyCache
+    end
+
+    cache.lastCacheUpdate = currentTime
+    cache.enemyCache = {}
+
+    local targetName = STATE.selectedEnemy
+    if not targetName or targetName == "" then 
+        debugPrint("No enemy selected")
+        return cache.enemyCache 
+    end
+
+    local targetLower = string.lower(targetName)
+    debugPrint("Searching for: " .. targetName)
+
+    -- Search ALL workspace descendants for enemies
+    local searchCount = 0
+    local foundCount = 0
+    
+    for _, desc in ipairs(workspace:GetDescendants()) do
+        if desc:IsA("Model") and desc.Name then
+            searchCount = searchCount + 1
+            
+            -- Case-insensitive name match
+            if string.lower(desc.Name) == targetLower then
+                local hum = desc:FindFirstChildOfClass("Humanoid")
+                
+                if hum and hum.Health and hum.Health > 0.2 then
+                    local cf = getModelCFrame(desc)
+                    
+                    if cf and isValidEnemyPosition(cf.Position) then
+                        foundCount = foundCount + 1
+                        table.insert(cache.enemyCache, {
+                            model = desc,
+                            position = cf.Position,
+                            humanoid = hum,
+                            distance = 0  -- Will calculate later
+                        })
+                    end
+                end
+            end
+        end
+    end
+
+    debugPrint("Searched " .. searchCount .. " models, found " .. foundCount .. " " .. targetName)
+    STATE.enemiesFound = foundCount
+
+    return cache.enemyCache
+end
+
+-- IMPROVED: Find closest OR lowest health enemy
+local function findBestEnemy()
+    local char = player.Character
+    if not char then return nil end
+    
+    local hrp = char:FindFirstChild("HumanoidRootPart")
+    if not hrp then return nil end
+    
+    local playerPos = hrp.Position
+    
+    -- Build fresh cache
+    buildEnemyCache()
+    
+    if #cache.enemyCache == 0 then 
+        debugPrint("No enemies in cache")
+        return nil 
+    end
+    
+    local bestEnemy = nil
+    local lowestHealth = math.huge
+    local closestDistance = math.huge
+    
+    -- Calculate distances and find best target
+    for _, entry in ipairs(cache.enemyCache) do
+        if entry.model and entry.model.Parent and isEnemyAlive(entry.model) then
+            local distance = (playerPos - entry.position).Magnitude
+            entry.distance = distance
+            
+            -- Prioritize by health (lowest health = priority target)
+            if entry.humanoid.Health < lowestHealth then
+                lowestHealth = entry.humanoid.Health
+                bestEnemy = entry.model
+                closestDistance = distance
+            elseif entry.humanoid.Health == lowestHealth and distance < closestDistance then
+                -- If same health, pick closest
+                bestEnemy = entry.model
+                closestDistance = distance
+            end
+        end
+    end
+    
+    if bestEnemy then
+        STATE.currentDistance = closestDistance
+        debugPrint("Selected: " .. bestEnemy.Name .. " | HP: " .. math.floor(lowestHealth) .. " | Distance: " .. math.floor(closestDistance))
+    end
+    
+    return bestEnemy
+end
+
+local function attackEnemy(character)
+    if not STATE.currentTarget or not isEnemyAlive(STATE.currentTarget) then 
+        return 
+    end
+    
+    if not character then return end
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return end
+    
+    local backpack = player:FindFirstChild("Backpack")
+    if not backpack then return end
+    local inputEvent = backpack:FindFirstChild("Input")
+    if not inputEvent then return end
+    
+    local currentTime = tick()
+    if currentTime - STATE.lastAttackTime < CONFIG.ATTACK_COOLDOWN then return end
+    
+    local velocity = hrp.AssemblyLinearVelocity or hrp.Velocity or Vector3.new(0,0,0)
+    local attackData = {
+        running = velocity.Magnitude > 16,
+        inair = hrp.Position.Y > 5
+    }
+    
+    pcall(function()
+        if STATE.useM1 then
+            inputEvent:FireServer("m1", attackData)
+            STATE.lastAttackTime = currentTime
+        end
+        
+        if STATE.useM2 and currentTime - STATE.lastM2Time >= CONFIG.M2_ATTACK_DELAY then
+            inputEvent:FireServer("m2", attackData)
+            STATE.lastM2Time = currentTime
+        end
+    end)
+end
+
+-- FIXED: Direct teleport system (no tweening)
+local function moveToBehind(hrp, targetCF, distance)
+    if not hrp or not targetCF then return end
+
+    -- Calculate position behind enemy
+    local behindPos = targetCF.Position - (targetCF.LookVector * STATE.characterDistance)
+    behindPos = behindPos + Vector3.new(0, STATE.characterHeight, 0)
+    
+    -- Create CFrame facing enemy
+    local newCFrame = CFrame.new(behindPos, targetCF.Position)
+    
+    -- DIRECT TELEPORT (instant, works for any distance)
+    hrp.CFrame = newCFrame
+    
+    -- Stop all momentum
+    hrp.Velocity = Vector3.new(0, 0, 0)
+    pcall(function() 
+        hrp.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+        hrp.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+    end)
+end
+
+local function checkHealth()
+    local character = player.Character
+    if not character then return false end
+    
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return false end
+    
+    return (humanoid.Health / humanoid.MaxHealth) * 100 > CONFIG.SAFE_MODE_HEALTH
+end
+
+-- IMPROVED: Main farming loop with better targeting
+local function startFarming()
+    STATE.farmActive = true
+    
+    if farmConnection then
+        farmConnection:Disconnect()
+    end
+    
+    debugPrint("Auto farm started for: " .. tostring(STATE.selectedEnemy))
+    
+    farmConnection = RunService.Heartbeat:Connect(function()
+        if not STATE.farmActive then
+            if farmConnection then
+                farmConnection:Disconnect()
+                farmConnection = nil
+            end
+            return
+        end
+        
+        pcall(function()
+            local character = player.Character
+            if not character then return end
+            
+            local hrp = character:FindFirstChild("HumanoidRootPart")
+            if not hrp then return end
+            
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if not humanoid then return end
+            
+            -- Check if current target is dead
+            if STATE.currentTarget and not isEnemyAlive(STATE.currentTarget) then
+                debugPrint("Target died, finding new target")
+                STATE.currentTarget = nil
+            end
+            
+            -- Find new target if needed
+            if not STATE.currentTarget then
+                STATE.currentTarget = findBestEnemy()
+            end
+            
+            -- Update status if no target
+            if not STATE.currentTarget then
+                if GUI_ELEMENTS.statusLabel then
+                    GUI_ELEMENTS.statusLabel.Text = "Status: Searching for " .. (STATE.selectedEnemy or "enemies") .. "..."
+                    GUI_ELEMENTS.statusLabel.TextColor3 = Color3.fromRGB(255, 200, 100)
+                end
+                return
+            end
+            
+            -- Double-check target is alive
+            if not isEnemyAlive(STATE.currentTarget) then
+                STATE.currentTarget = nil
+                return
+            end
+            
+            -- Get target position
+            local targetCF = getModelCFrame(STATE.currentTarget)
+            if not targetCF then 
+                debugPrint("Could not get target CFrame")
+                STATE.currentTarget = nil
+                return 
+            end
+            
+            -- Calculate distance
+            local distance = (hrp.Position - targetCF.Position).Magnitude
+            
+            -- TELEPORT to enemy (works for any distance)
+            moveToBehind(hrp, targetCF, distance)
+            
+            -- Disable auto-rotate
+            humanoid.AutoRotate = false
+            
+            -- Attack enemy
+            attackEnemy(character)
+            
+            -- Update status
+            if GUI_ELEMENTS.statusLabel then
+                GUI_ELEMENTS.statusLabel.Text = string.format(
+                    "Status: Farming %s | Distance: %d | Enemies: %d",
+                    STATE.selectedEnemy,
+                    math.floor(distance),
+                    STATE.enemiesFound
+                )
+                GUI_ELEMENTS.statusLabel.TextColor3 = THEME.Green
+            end
+        end)
+    end)
+end
+
+local function stopFarming()
+    STATE.farmActive = false
+    STATE.currentTarget = nil
+    
+    debugPrint("Auto farm stopped")
+    
+    if farmConnection then
+        farmConnection:Disconnect()
+        farmConnection = nil
+    end
+    
+    pcall(function()
+        local character = player.Character
+        if character then
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if humanoid then humanoid.AutoRotate = true end
+        end
+    end)
+    
+    if GUI_ELEMENTS.statusLabel then
+        GUI_ELEMENTS.statusLabel.Text = "Status: Idle"
+        GUI_ELEMENTS.statusLabel.TextColor3 = THEME.TextDim
+    end
+    if GUI_ELEMENTS.startButton then
+        GUI_ELEMENTS.startButton.Text = "START"
+        GUI_ELEMENTS.startButton.BackgroundColor3 = Color3.fromRGB(51, 204, 51)
+    end
+end
+
+local function createUI()
+    local PlayerGui = player:FindFirstChildOfClass("PlayerGui")
+    if not PlayerGui then return end
+    
+    local existing = PlayerGui:FindFirstChild("JomHubSafe")
+    if existing then existing:Destroy() end
+    
+    local gui = Instance.new("ScreenGui")
+    gui.Name = "JomHubSafe"
+    gui.ResetOnSpawn = false
+    gui.Parent = PlayerGui
+    
+    local main = Instance.new("Frame")
+    main.Size = UDim2.new(0, 900, 0, 650)
+    main.Position = UDim2.new(0.5, -450, 0.5, -325)
+    main.BackgroundColor3 = THEME.Background
+    main.BorderSizePixel = 0
+    main.ClipsDescendants = true
+    main.Parent = gui
+    
+    local bgGradient = Instance.new("UIGradient")
+    bgGradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, THEME.GradientStart),
+        ColorSequenceKeypoint.new(1, THEME.GradientEnd)
+    })
+    bgGradient.Parent = main
+    
+    addGlow(main, THEME.Accent, 2).Transparency = 0.3
+    
+    local navBar = Instance.new("Frame")
+    navBar.Size = UDim2.new(1, 0, 0, 50)
+    navBar.BackgroundColor3 = THEME.BackgroundDark
+    navBar.BorderSizePixel = 0
+    navBar.Parent = main
+    
+    local navLayout = Instance.new("UIListLayout")
+    navLayout.FillDirection = Enum.FillDirection.Horizontal
+    navLayout.Padding = UDim.new(0, 15)
+    navLayout.Parent = navBar
+    
+    local sidebar = Instance.new("Frame")
+    sidebar.Size = UDim2.new(0, 200, 1, -50)
+    sidebar.Position = UDim2.new(0, -60, 0, 50)
+    sidebar.BackgroundColor3 = THEME.Sidebar
+    sidebar.BorderSizePixel = 0
+    sidebar.Parent = main
+    
+    local logo = Instance.new("TextLabel")
+    logo.Size = UDim2.new(1, -20, 0, 50)
+    logo.Position = UDim2.new(0, 75, 0, 15)
+    logo.BackgroundTransparency = 1
+    logo.Text = "HOME"
+    logo.Font = Enum.Font.SourceSansBold
+    logo.TextSize = 20
+    logo.TextColor3 = THEME.Text
+    logo.TextXAlignment = Enum.TextXAlignment.Left
+    logo.Parent = sidebar
+    
+    local autoTabContainer = Instance.new("Frame")
+    autoTabContainer.Size = UDim2.new(1, 0, 0, 48)
+    autoTabContainer.Position = UDim2.new(0, 0, 0, 65)
+    autoTabContainer.BackgroundTransparency = 1
+    autoTabContainer.Visible = false
+    autoTabContainer.Parent = sidebar
+    
+    local content = Instance.new("Frame")
+    content.Size = UDim2.new(1, -215, 1, -65)
+    content.Position = UDim2.new(0, 180, 0, 65)
+    content.BackgroundTransparency = 1
+    content.Parent = main
+    
+    local contents = {}
+    
+    local navItems = {"HOME", "QUESTS", "AUTO", "CHARACTER", "TELEPORT", "SETTINGS", "HELP"}
+    local navLinks = {}
+    
+    for _, name in ipairs(navItems) do
+        local navLink = Instance.new("TextButton")
+        navLink.Size = UDim2.new(0, string.len(name) * 10 + 20, 1, 0)
+        navLink.BackgroundTransparency = 1
+        navLink.Text = name
+        navLink.Font = Enum.Font.SourceSans
+        navLink.TextSize = 14
+        navLink.TextColor3 = name == "HOME" and THEME.Text or THEME.TextDim
+        navLink.Parent = navBar
+        navLinks[name] = navLink
+        
+        navLink.MouseButton1Click:Connect(function()
+            for navName, link in pairs(navLinks) do
+                link.TextColor3 = navName == name and THEME.Text or THEME.TextDim
+            end
+            
+            logo.Text = name
+            
+            for contentName, contentFrame in pairs(contents) do
+                contentFrame.Visible = contentName == name
+            end
+            
+            if name == "AUTO" then
+                autoTabContainer.Visible = true
+            else
+                autoTabContainer.Visible = false
+            end
+        end)
+    end
+    
+    local autoFarmTab = Instance.new("TextButton")
+    autoFarmTab.Size = UDim2.new(1, 0, 0, 40)
+    autoFarmTab.BackgroundColor3 = Color3.fromRGB(26, 26, 46)
+    autoFarmTab.BorderSizePixel = 0
+    autoFarmTab.Text = "AUTO FARM"
+    autoFarmTab.Font = Enum.Font.SourceSansBold
+    autoFarmTab.TextSize = 14
+    autoFarmTab.TextColor3 = Color3.fromRGB(220, 230, 255)
+    autoFarmTab.Parent = autoTabContainer
+    
+    local homeContent = Instance.new("ScrollingFrame")
+    homeContent.Name = "HomeContent"
+    homeContent.Size = UDim2.new(1, 0, 1, 0)
+    homeContent.BackgroundTransparency = 1
+    homeContent.BorderSizePixel = 0
+    homeContent.ScrollBarThickness = 6
+    homeContent.CanvasSize = UDim2.new(0, 0, 0, 400)
+    homeContent.Visible = true
+    homeContent.Parent = content
+    contents["HOME"] = homeContent
+    
+    for _, name in ipairs({"QUESTS", "CHARACTER", "TELEPORT", "SETTINGS", "HELP"}) do
+        local placeholder = Instance.new("Frame")
+        placeholder.Size = UDim2.new(1, 0, 1, 0)
+        placeholder.BackgroundTransparency = 1
+        placeholder.Visible = false
+        placeholder.Parent = content
+        
+        local label = Instance.new("TextLabel")
+        label.Size = UDim2.new(1, 0, 0, 50)
+        label.Position = UDim2.new(0, 0, 0.5, -25)
+        label.BackgroundTransparency = 1
+        label.Text = name .. " - Coming Soon"
+        label.Font = Enum.Font.SourceSans
+        label.TextSize = 20
+        label.TextColor3 = THEME.TextDim
+        label.Parent = placeholder
+        
+        contents[name] = placeholder
+    end
+    
+    local homeIntro = Instance.new("Frame")
+    homeIntro.Size = UDim2.new(1, 0, 0, 300)
+    homeIntro.Position = UDim2.new(0, 0, 0, 20)
+    homeIntro.BackgroundColor3 = THEME.SectionBg
+    homeIntro.BorderSizePixel = 0
+    homeIntro.Parent = homeContent
+    applySectionStyle(homeIntro)
+    
+    local introTitle = Instance.new("TextLabel")
+    introTitle.Size = UDim2.new(1, -40, 0, 60)
+    introTitle.Position = UDim2.new(0, 20, 0, 30)
+    introTitle.BackgroundTransparency = 1
+    introTitle.Text = "JOMHUB SAFE VERSION"
+    introTitle.Font = Enum.Font.SourceSansBold
+    introTitle.TextSize = 28
+    introTitle.TextColor3 = THEME.Text
+    introTitle.TextXAlignment = Enum.TextXAlignment.Center
+    introTitle.Parent = homeIntro
+    
+    local introDesc = Instance.new("TextLabel")
+    introDesc.Size = UDim2.new(1, -40, 0, 180)
+    introDesc.Position = UDim2.new(0, 20, 0, 100)
+    introDesc.BackgroundTransparency = 1
+    introDesc.Text = "Safe auto-farming with UNLIMITED RANGE\n\nFeatures:\n• Detects enemies ANYWHERE in the map\n• Instant teleportation to far enemies\n• Smart targeting (lowest health priority)\n• Real-time distance tracking\n• Debug mode for troubleshooting\n\nPress 'P' to toggle GUI"
+    introDesc.Font = Enum.Font.SourceSans
+    introDesc.TextSize = 14
+    introDesc.TextColor3 = THEME.TextDim
+    introDesc.TextXAlignment = Enum.TextXAlignment.Left
+    introDesc.TextYAlignment = Enum.TextYAlignment.Top
+    introDesc.TextWrapped = true
+    introDesc.Parent = homeIntro
+    
+    local autoFarmContent = Instance.new("ScrollingFrame")
+    autoFarmContent.Name = "AutoContent"
+    autoFarmContent.Size = UDim2.new(1, 0, 1, 0)
+    autoFarmContent.BackgroundTransparency = 1
+    autoFarmContent.BorderSizePixel = 0
+    autoFarmContent.ScrollBarThickness = 6
+    autoFarmContent.CanvasSize = UDim2.new(0, 0, 0, 800)
+    autoFarmContent.Visible = false
+    autoFarmContent.Parent = content
+    contents["AUTO"] = autoFarmContent
+    
+    local enemySection = Instance.new("Frame")
+    enemySection.Size = UDim2.new(1, 0, 0, 500)
+    enemySection.BackgroundColor3 = THEME.SectionBg
+    enemySection.BorderSizePixel = 0
+    enemySection.Parent = autoFarmContent
+    applySectionStyle(enemySection)
+    
+    local enemyTitle = Instance.new("TextLabel")
+    enemyTitle.Size = UDim2.new(1, -20, 0, 30)
+    enemyTitle.Position = UDim2.new(0, 10, 0, 5)
+    enemyTitle.BackgroundTransparency = 1
+    enemyTitle.Text = "Enemy Selection (Unlimited Range)"
+    enemyTitle.Font = Enum.Font.SourceSansBold
+    enemyTitle.TextSize = 14
+    enemyTitle.TextColor3 = THEME.Text
+    enemyTitle.TextXAlignment = Enum.TextXAlignment.Left
+    enemyTitle.Parent = enemySection
+    
+    local enemyListContainer = Instance.new("Frame")
+    enemyListContainer.Size = UDim2.new(1, -20, 0, 400)
+    enemyListContainer.Position = UDim2.new(0, 10, 0, 45)
+    enemyListContainer.BackgroundColor3 = Color3.fromRGB(26, 26, 46)
+    enemyListContainer.BorderSizePixel = 0
+    enemyListContainer.Parent = enemySection
+    addGlow(enemyListContainer, THEME.Accent, 2).Transparency = 0.3
+    
+    local enemyScroll = Instance.new("ScrollingFrame")
+    enemyScroll.Size = UDim2.new(1, 0, 1, 0)
+    enemyScroll.BackgroundTransparency = 1
+    enemyScroll.BorderSizePixel = 0
+    enemyScroll.ScrollBarThickness = 6
+    enemyScroll.Parent = enemyListContainer
+    
+    local enemyListLayout = Instance.new("UIListLayout")
+    enemyListLayout.Padding = UDim.new(0, 2)
+    enemyListLayout.Parent = enemyScroll
+    
+    for _, enemyName in ipairs(ENEMIES) do
+        local enemyRow = Instance.new("Frame")
+        enemyRow.Size = UDim2.new(1, -10, 0, 35)
+        enemyRow.BackgroundColor3 = Color3.fromRGB(40, 40, 64)
+        enemyRow.BorderSizePixel = 0
+        enemyRow.Parent = enemyScroll
+        
+        local checkbox = Instance.new("Frame")
+        checkbox.Size = UDim2.new(0, 16, 0, 16)
+        checkbox.Position = UDim2.new(0, 10, 0.5, -8)
+        checkbox.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+        checkbox.BorderSizePixel = 1
+        checkbox.BorderColor3 = Color3.fromRGB(100, 100, 100)
+        checkbox.Name = "Checkbox"
+        checkbox.Parent = enemyRow
+        
+        local enemyLabel = Instance.new("TextLabel")
+        enemyLabel.Size = UDim2.new(1, -40, 1, 0)
+        enemyLabel.Position = UDim2.new(0, 35, 0, 0)
+        enemyLabel.BackgroundTransparency = 1
+        enemyLabel.Text = enemyName
+        enemyLabel.Font = Enum.Font.SourceSans
+        enemyLabel.TextSize = 13
+        enemyLabel.TextColor3 = Color3.fromRGB(220, 220, 220)
+        enemyLabel.TextXAlignment = Enum.TextXAlignment.Left
+        enemyLabel.Parent = enemyRow
+        
+        local rowButton = Instance.new("TextButton")
+        rowButton.Size = UDim2.new(1, 0, 1, 0)
+        rowButton.BackgroundTransparency = 1
+        rowButton.Text = ""
+        rowButton.Parent = enemyRow
+        
+        rowButton.MouseButton1Click:Connect(function()
+            STATE.selectedEnemy = enemyName
+            debugPrint("Selected enemy: " .. enemyName)
+            
+            for _, child in ipairs(enemyScroll:GetChildren()) do
+                if child:IsA("Frame") then
+                    local cb = child:FindFirstChild("Checkbox")
+                    if cb then
+                        local label = child:FindFirstChild("TextLabel")
+                        if label and label.Text == enemyName then
+                            cb.BackgroundColor3 = THEME.Green
+                        else
+                            cb.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+                        end
+                    end
+                end
+            end
+        end)
+    end
+    
+    enemyScroll.CanvasSize = UDim2.new(0, 0, 0, enemyListLayout.AbsoluteContentSize.Y + 4)
+    
+    local attackFrame = Instance.new("Frame")
+    attackFrame.Size = UDim2.new(1, -20, 0, 40)
+    attackFrame.Position = UDim2.new(0, 10, 0, 455)
+    attackFrame.BackgroundTransparency = 1
+    attackFrame.Parent = enemySection
+    
+    local m1Toggle = Instance.new("TextButton")
+    m1Toggle.Size = UDim2.new(0, 100, 0, 30)
+    m1Toggle.Position = UDim2.new(0, 0, 0, 0)
+    m1Toggle.BackgroundColor3 = STATE.useM1 and THEME.ToggleOn or THEME.ToggleOff
+    m1Toggle.Text = "M1: " .. (STATE.useM1 and "ON" or "OFF")
+    m1Toggle.Font = Enum.Font.SourceSans
+    m1Toggle.TextSize = 14
+    m1Toggle.TextColor3 = THEME.Text
+    m1Toggle.Parent = attackFrame
+    
+    m1Toggle.MouseButton1Click:Connect(function()
+        STATE.useM1 = not STATE.useM1
+        m1Toggle.BackgroundColor3 = STATE.useM1 and THEME.ToggleOn or THEME.ToggleOff
+        m1Toggle.Text = "M1: " .. (STATE.useM1 and "ON" or "OFF")
+    end)
+    
+    local m2Toggle = Instance.new("TextButton")
+    m2Toggle.Size = UDim2.new(0, 100, 0, 30)
+    m2Toggle.Position = UDim2.new(0, 110, 0, 0)
+    m2Toggle.BackgroundColor3 = STATE.useM2 and THEME.ToggleOn or THEME.ToggleOff
+    m2Toggle.Text = "M2: " .. (STATE.useM2 and "ON" or "OFF")
+    m2Toggle.Font = Enum.Font.SourceSans
+    m2Toggle.TextSize = 14
+    m2Toggle.TextColor3 = THEME.Text
+    m2Toggle.Parent = attackFrame
+    
+    m2Toggle.MouseButton1Click:Connect(function()
+        STATE.useM2 = not STATE.useM2
+        m2Toggle.BackgroundColor3 = STATE.useM2 and THEME.ToggleOn or THEME.ToggleOff
+        m2Toggle.Text = "M2: " .. (STATE.useM2 and "ON" or "OFF")
+    end)
+    
+    local advancedSection = Instance.new("Frame")
+    advancedSection.Size = UDim2.new(1, 0, 0, 150)
+    advancedSection.Position = UDim2.new(0, 0, 0, 520)
+    advancedSection.BackgroundColor3 = THEME.SectionBg
+    advancedSection.BorderSizePixel = 0
+    advancedSection.Parent = autoFarmContent
+    applySectionStyle(advancedSection)
+    
+    local advTitle = Instance.new("TextLabel")
+    advTitle.Size = UDim2.new(1, -20, 0, 30)
+    advTitle.Position = UDim2.new(0, 10, 0, 5)
+    advTitle.BackgroundTransparency = 1
+    advTitle.Text = "Advanced Settings"
+    advTitle.Font = Enum.Font.SourceSansBold
+    advTitle.TextSize = 14
+    advTitle.TextColor3 = THEME.Text
+    advTitle.TextXAlignment = Enum.TextXAlignment.Left
+    advTitle.Parent = advancedSection
+    
+    local distLabel = Instance.new("TextLabel")
+    distLabel.Size = UDim2.new(0, 200, 0, 20)
+    distLabel.Position = UDim2.new(0, 10, 0, 45)
+    distLabel.BackgroundTransparency = 1
+    distLabel.Text = "Distance: " .. STATE.characterDistance
+    distLabel.Font = Enum.Font.SourceSans
+    distLabel.TextSize = 14
+    distLabel.TextColor3 = THEME.TextDim
+    distLabel.TextXAlignment = Enum.TextXAlignment.Left
+    distLabel.Parent = advancedSection
+    
+    local distSlider = Instance.new("TextButton")
+    distSlider.Size = UDim2.new(0, 200, 0, 20)
+    distSlider.Position = UDim2.new(0, 10, 0, 70)
+    distSlider.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    distSlider.Text = ""
+    distSlider.Parent = advancedSection
+    
+    local distFill = Instance.new("Frame")
+    distFill.Size = UDim2.new(0.2, 0, 1, 0)
+    distFill.BackgroundColor3 = THEME.Accent
+    distFill.BorderSizePixel = 0
+    distFill.Parent = distSlider
+    
+    local heightLabel = Instance.new("TextLabel")
+    heightLabel.Size = UDim2.new(0, 200, 0, 20)
+    heightLabel.Position = UDim2.new(0, 220, 0, 45)
+    heightLabel.BackgroundTransparency = 1
+    heightLabel.Text = "Height: " .. STATE.characterHeight
+    heightLabel.Font = Enum.Font.SourceSans
+    heightLabel.TextSize = 14
+    heightLabel.TextColor3 = THEME.TextDim
+    heightLabel.TextXAlignment = Enum.TextXAlignment.Left
+    heightLabel.Parent = advancedSection
+    
+    local heightSlider = Instance.new("TextButton")
+    heightSlider.Size = UDim2.new(0, 200, 0, 20)
+    heightSlider.Position = UDim2.new(0, 220, 0, 70)
+    heightSlider.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    heightSlider.Text = ""
+    heightSlider.Parent = advancedSection
+    
+    local heightFill = Instance.new("Frame")
+    heightFill.Size = UDim2.new(0.25, 0, 1, 0)
+    heightFill.BackgroundColor3 = THEME.Accent
+    heightFill.BorderSizePixel = 0
+    heightFill.Parent = heightSlider
+    
+    local distDragging = false
+    distSlider.MouseButton1Down:Connect(function()
+        distDragging = true
+        local mouse = player:GetMouse()
+        
+        local function updateDist()
+            if not distDragging then return end
+            local relX = math.clamp((mouse.X - distSlider.AbsolutePosition.X) / distSlider.AbsoluteSize.X, 0, 1)
+            local newDistance = math.floor(5 + (relX * 25))
+            STATE.characterDistance = newDistance
+            distFill.Size = UDim2.new(relX, 0, 1, 0)
+            distLabel.Text = "Distance: " .. newDistance
+        end
+        
+        local moveConnection = mouse.Move:Connect(updateDist)
+        updateDist()
+        
+        local releaseConnection
+        releaseConnection = UserInputService.InputEnded:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                distDragging = false
+                moveConnection:Disconnect()
+                releaseConnection:Disconnect()
+            end
+        end)
+    end)
+    
+    local heightDragging = false
+    heightSlider.MouseButton1Down:Connect(function()
+        heightDragging = true
+        local mouse = player:GetMouse()
+        
+        local function updateHeight()
+            if not heightDragging then return end
+            local relX = math.clamp((mouse.X - heightSlider.AbsolutePosition.X) / heightSlider.AbsoluteSize.X, 0, 1)
+            local newHeight = math.floor(-5 + (relX * 20))
+            STATE.characterHeight = newHeight
+            heightFill.Size = UDim2.new(relX, 0, 1, 0)
+            heightLabel.Text = "Height: " .. newHeight
+        end
+        
+        local moveConnection = mouse.Move:Connect(updateHeight)
+        updateHeight()
+        
+        local releaseConnection
+        releaseConnection = UserInputService.InputEnded:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                heightDragging = false
+                moveConnection:Disconnect()
+                releaseConnection:Disconnect()
+            end
+        end)
+    end)
+    
+    local statusLabel = Instance.new("TextLabel")
+    statusLabel.Size = UDim2.new(1, -20, 0, 30)
+    statusLabel.Position = UDim2.new(0, 10, 0, 110)
+    statusLabel.BackgroundTransparency = 1
+    statusLabel.Text = "Status: Idle"
+    statusLabel.Font = Enum.Font.SourceSans
+    statusLabel.TextSize = 14
+    statusLabel.TextColor3 = THEME.TextDim
+    statusLabel.TextXAlignment = Enum.TextXAlignment.Left
+    statusLabel.Parent = advancedSection
+    GUI_ELEMENTS.statusLabel = statusLabel
+    
+    local startButton = Instance.new("TextButton")
+    startButton.Size = UDim2.new(0, 200, 0, 45)
+    startButton.Position = UDim2.new(0.5, -100, 0, 680)
+    startButton.BackgroundColor3 = Color3.fromRGB(51, 204, 51)
+    startButton.BorderSizePixel = 0
+    startButton.Text = "START"
+    startButton.Font = Enum.Font.SourceSansBold
+    startButton.TextSize = 18
+    startButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    startButton.Parent = autoFarmContent
+    GUI_ELEMENTS.startButton = startButton
+    
+    startButton.MouseButton1Click:Connect(function()
+        if not STATE.selectedEnemy then
+            statusLabel.Text = "Status: Please select an enemy first!"
+            statusLabel.TextColor3 = Color3.fromRGB(255, 100, 100)
+            return
+        end
+        
+        if STATE.farmActive then
+            stopFarming()
+        else
+            startButton.Text = "STOP"
+            startButton.BackgroundColor3 = Color3.fromRGB(204, 51, 51)
+            startFarming()
+        end
+    end)
+    
+    UserInputService.InputBegan:Connect(function(input, gameProcessed)
+        if not gameProcessed and input.KeyCode == Enum.KeyCode.P then
+            STATE.guiVisible = not STATE.guiVisible
+            gui.Enabled = STATE.guiVisible
+        end
+    end)
+    
+    task.spawn(function()
+        while true do
+            wait(CONFIG.ANTI_AFK_INTERVAL)
+            local vu = game:GetService("VirtualUser")
+            if vu then
+                vu:CaptureController()
+                vu:ClickButton2(Vector2.new())
+            end
+        end
+    end)
+end
+
+createUI()
+print("╔═══════════════════════════════════════════════════════╗")
+print("║      JOMHUB SAFE VERSION - UNLIMITED RANGE LOADED     ║")
+print("║                                                       ║")
+print("║  • Detects enemies ANYWHERE in workspace             ║")
+print("║  • Instant teleportation (no distance limits)        ║")
+print("║  • Smart targeting (lowest HP priority)              ║")
+print("║  • Press 'P' to toggle GUI                           ║")
+print("║  • Check F9 console for debug info                   ║")
+print("╚═══════════════════════════════════════════════════════╝")
